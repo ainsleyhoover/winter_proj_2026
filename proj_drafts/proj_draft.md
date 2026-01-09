@@ -2,9 +2,9 @@ Ainsley Hoover
 
 01-08-2026
 
-Second Draft of Report
+Third Draft of Report
 
-To Do still: abstract, citations in intro, sources, data and methods, discussion, sources
+To Do still: abstract, intro, sources, data and methods, discussion
 
 **Abstract**
 
@@ -12,11 +12,11 @@ To Do still: abstract, citations in intro, sources, data and methods, discussion
 
 **In Search of Nuance**
 
-Age, gender, and income, are commonly described as predictors for party affiliation. In introductory-level civics courses, students are taught about how the older and richer one is, the more conservative they are likely to be. In addition, the gender gap in the United States' two party system is highly referenced. Women are generally lean more democratic than men. (*maybe go in depth into a few studies*) There is a plethora of research showcasing the effect of demographic information on voting (*cite many works*). However, attention to voting predictors is rarely given at the state level. In a country that is hyper-fixated on presidential elections, we hoped to dissect one aspect of voters at the state-level. We wanted to verify if age, gender, and income are strong determiners for categorizing partisanship or if the raw data presents a different picture.
+Age, gender, and income, are commonly described as predictors for party affiliation. In introductory-level civics courses, students are taught about how the older and richer one is, the more conservative they are likely to be. As people get older, they shift away from the Republican party (Knoke and Hout, 1974). In addition, the gender gap in the United States' two party system is highly referenced. Women lean more democratic than men (Box-Steffensmeier et al., 2004; Miller, 1991). There is a plethora of research showcasing the effect of demographic information on voting (a quick search on Google Scholar of "demographic effects on voting" renders more than 1.3 million results). However, attention to voting predictors is rarely given at the state level. Our country that is hyper-fixated on presidential elections. Thus, we hoped to move away from that narrative and dissect one aspect of voters at the state-level. We wanted to verify if age, gender, and income are strong determiners for categorizing partisanship or if the raw data presents a different picture.
 
-Selecting New York as a key state may seem odd, as the state is not a swing state and heavily favors the Democratic party. In other words, nationally, it is often predictable and not a good representation of the United States of America at large. This is precisely why we chose New York: it might be an outlier to general conventions. There may be general cohort effects to the elderly or youth specific to New York that national data misses. New York City's 2025 mayoral election elected Mamdani, an untraditional Democrat, to their office. While New York City is by no means representative of the state as a whole, it goes to show that the region acts as an anomaly to what the nation would typically elect. Thus, we wondered if New York had unique attributes, related to age, that allowed for its democratic favoritism. Age may not be the only factor at play for party identification: income and gender may hold key influence as well.
+Selecting New York as a key state may seem odd, as the state is not a swing state and heavily favors the Democratic party. In other words, nationally, it is often predictable and not a good representation of the United States of America at large. This is precisely why we chose New York: it might be an outlier to general conventions. There may be general cohort effects to the elderly or youth specific to New York that national data misses. New York City's 2025 mayoral election elected Mamdani, an untraditional Democrat, to their office. While New York City is by no means representative of the state as a whole, it goes to show that the region acts as an anomaly to what the nation would typically elect. Thus, we wondered if New York had unique attributes, related to age, income, or gender, that allowed for its democratic-party favoritism. Age may not be the only factor at play for party identification: income and gender may hold key influence as well.
 
-In a diverse and expansive world, it seems pertinent to take caution to generalizations. Generalizations about party identification exist at the population level. It is vital to remember that the population is distinct from an individual. At the individual level, many models fall apart (*cite*). By focusing on one state, we hope to shift away from nationally-applied partisanship influences and verify their accuracy for the state of New York.
+In a diverse and expansive world, it seems pertinent to take caution to generalizations. Generalizations about party identification are most accurate at the population level. It is vital to remember that the population is distinct from an individual. There is much intellectual debate about the reliability of party identification assumptions. Tomkins et al. (2025) argue that certain demographics can only prove partisanship by so much. Seo-young Kim and Zilinsky (2022) found that machine learning models trained on demographic labels from public opinion surveys predicted partisan identification correctly only 63.4% of the time. By focusing on one state, we hope to shift away from nationally-applied partisanship influences and verify their accuracy for the state of New York.
 
 **Data and Methods**
 
@@ -33,3 +33,13 @@ Our primary research interest is the effectiveness of three variables, gender, a
 One limitation was our inability to involve third-party and non-partisan affiliations into our analysis. We recommend future work to be done that incorporates non-partisan affiliates, as they represented a large portion of the New York Voter File (26,108 voters of our 116,801 data set were non-partisan). In addition, other factors than the three we tested may be more responsible for party affiliation, such as education, party identification of parents, and race/ethnicity. The voter files alone did not contain a high quality measure, or one at all, for these potential predictors. We suggest the use of a survey to view correlation between these predicted determiners. A natural expansion of this project would be to do the same methodology for many states. Then, comparison between regions or different states could render intriguing findings. We were also limited by our access to the voter files. Were a more recent file be available, such as 2025, that would better encapsulate the voting dynamics of today's world than 2021. That being said, we expect limited changes for party identification as affiliation is rarely updated in official records. Additionally, it is likely that other predictors within our data set will glean interesting information related to partisanship. We chose predictors that are commonly described as strong influences, but it is possible some of the hundreds of other variables demonstrate correlations.
 
 **Sources**
+
+Box-Steffensmeier, J. M., De Boef, S., & Lin, T.-M. (2004). The dynamics of the partisan gender gap. *American Political Science Review*, *98*(3), 515–528. <https://doi.org/10.1017/S0003055404001315>
+
+Knoke, D. & Hout, M. (1974). Social and demographic factors in American political party affiliations, 1952-72. *American Sociological Review*, *39*(5), 700–713. <https://doi.org/10.2307/2094315>
+
+Miller, W. E. (1991). Party identification, realignment, and party voting: Back to the basics. *The American Political Science Review*, *85*(2), 557–568. <https://doi.org/10.2307/1963175>
+
+Seo-young Kim, S. & Zilinsky, J. (2024). Division does not imply predictability: Demographics continue to reveal little about voting and partisanship. *Political Behavior*, *46*(1), 67–87. <https://doi.org/10.1007/s11109-022-09816-z>
+
+Tomkins, S., Rothschild, D., Liu, A., & Thompson, A. (2025). *Identity isn’t everything—How far do demographics take us towards self-identified party ID?* (No. arXiv:2507.06193). arXiv. <https://doi.org/10.48550/arXiv.2507.06193>
